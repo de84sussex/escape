@@ -10,7 +10,7 @@ knitr::opts_chunk$set(include = F)
 
 <!-- START HERE -->
 
-<!-- You are a penguin researcher based in the Antarctic. A pesky penguin broke into your lab and meddled with your code 30 minutes before an important presentation! To beat the pesky penguin & fix your analyses, you must fix the code errors below, & successfully knit your .Rmd! Good Luck!! -->
+<!-- You are a penguin researcher based in the Antarctic. A pesky penguin broke into your lab and meddled with your code minutes before an important presentation! To beat the pesky penguin & fix your analyses, you must fix the code errors below, & successfully knit your .Rmd! Good Luck!! -->
 
 ```{r packages}
 
